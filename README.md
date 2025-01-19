@@ -14,7 +14,7 @@ Before running the script, make sure that your system is up-to-date and that you
 
 1. Download the script:
 ``` 
-git clone https://github.com/YasirRWebDesigner/waydroid-installer.git 
+git clone https://github.com/iEscapedVim/waydroid-installer.git 
 ```
 
 2. Make the script executeable 
